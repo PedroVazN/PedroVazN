@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <br>
-😎 Insta: pedro_vazn
-🥱 Professional valorant player By Loud
-🤡 Adoro PIPOCA
+<li>😎 Insta: pedro_vazn</li>
+<li>🥱 Professional valorant player By Loud</li>
+<li>🤡 Adoro PIPOCA</li>
 
 ## Ferramentas e Tecnologias 
 
