@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 🥱 Professional valorant player By Loud
 <br>
 🤡 Adoro PIPOCA
+
+## Ferramentas e Tecnologias 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
