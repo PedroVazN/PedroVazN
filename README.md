@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <br>
 <li>😎 Insta: pedro_vazn</li>
-<li>🥱 Professional valorant player By Loud</li>
-<li>🤡 Adoro PIPOCA</li>
+<li>🥱 Aspirante à DEV</li>
+<li>🤡 Projetos by Skycer</li>
 
 
 ## Ferramentas e Tecnologias
