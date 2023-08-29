@@ -1,7 +1,7 @@
-### Olá, Meu Nome é Pedro👋
-<br>
-<li>😎 Cursando Analise Desenvolvimento de Sistemas</li>
-<li>🥱 Aspirante à DEV</li>
+
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=PedroVaz%20&fontAlignY=40&color=gradient)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Vaz;Tenho+14+anos;sou+de+São+Paulo;Desenvolvedor+Front-end;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 ## 🌐 Contato
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pedro_vazn/?next=%2F)
