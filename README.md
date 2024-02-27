@@ -3,8 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Vaz;Tenho+16+anos;sou+de+São+Paulo;Cursando+Desenvolvimento+de+Sistemas;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 ## 🌐 Contato
+<div align="center">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pedro_vazn/?next=%2F)
-
+</div>
 
 ## 🛠 Ferramentas
 
