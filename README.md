@@ -4,7 +4,9 @@
 
 ## 🌐 Contato
 <div align="center">
+  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pedro_vazn/?next=%2F)
+
 </div>
 
 ## 🛠 Ferramentas
