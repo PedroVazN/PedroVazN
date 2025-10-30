@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Pedro+Vaz%20&fontAlignY=40&color=gradient)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Vaz+Nascimento;Tenho+17+anos;Sou+de+São+Paulo;Cursando+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Vaz+Nascimento;Tenho+18+anos;Sou+de+São+Paulo;Cursando+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
   
 
 </div>
